@@ -83,5 +83,5 @@ download fastsam wieghts from (https://github.com/CASIA-IVA-Lab/FastSAM?tab=read
 ```
 ## Run real-time detection of latest developed model (fastSAM/Yolov8)
 ```bash
-python detect_labware_errors.py
+python liveClassification.py
 ```
