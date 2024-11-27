@@ -74,11 +74,12 @@ Contains a series of Python pooling protocols designed to improve liquid handlin
 ### **Clone the Repository**
 ```bash
 git clone https://github.com/4n4ny4/Opentrons
-cd CVModel/FastSAM
+cd CVModel/fastSAM
 ```
 ## Install Dependencies
 ```bash
 pip install -r requirements.txt
+download fastsam wieghts from (https://github.com/CASIA-IVA-Lab/FastSAM?tab=readme-ov-file#model-checkpoints)
 ```
 ## Run real-time detection of latest developed model (fastSAM/Yolov8)
 ```bash
